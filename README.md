@@ -79,6 +79,7 @@ I’ve built this to be **practical**, **project-based**, and publicly visible t
 -   [VulnHub – Mr. Robot, Kioptrix](https://www.vulnhub.com/)
 -   [Linux From Scratch](https://www.linuxfromscratch.org/lfs/)
 -   [Linux Upskill Challenge](https://github.com/livialima/linux-upskill-challenge)
+-   [Arch Wiki](https://wiki.archlinux.org/title/Main_page)
 
 ---
 
